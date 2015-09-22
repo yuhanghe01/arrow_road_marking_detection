@@ -4,7 +4,7 @@ This code contains the implementation of the paper "Using Edit Distance and Junc
 The code has been successfully tested on Ubuntu/Mac OS. Moreover, it builds on C++/OpenCV, which means that you should install OpenCV in advance.
 
 The code needs LSD for line segmentation, if you use our code, please also cite the LSD paper: 
-Rafael Grompone von Gioi, Jérémie Jakubowicz, Jean-Michel Morel, and Gregory Randall, LSD: a Line Segment Detector, Image Processing On Line, 2 (2012), pp. 35–55. http://dx.doi.org/10.5201/ipol.2012.gjmr-lsd.
+Rafael Grompone von Gioi, Jérémie Jakubowicz, Jean-Michel Morel, and Gregory Randall, LSD: a Line Segment Detector, Image Processing On Line, 2 (2012), pp. 35–55.
 
 There are many paramter to tune, so you might tune all parameter first to get fine result.
 
