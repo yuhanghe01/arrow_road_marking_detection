@@ -8,6 +8,6 @@ Rafael Grompone von Gioi, Jérémie Jakubowicz, Jean-Michel Morel, and Gregory R
 
 There are many paramter to tune, so you might tune all parameter first to get fine result.
 
-Please cide our paper if you use it for your own research purpose.
+Please cite our paper if you use it for your own research purpose.
 
 
